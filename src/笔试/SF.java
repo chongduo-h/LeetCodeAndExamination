@@ -1,7 +1,5 @@
 package 笔试;
 
-import javafx.util.Pair;
-
 import java.util.*;
 
 /**
